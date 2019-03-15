@@ -51,7 +51,7 @@ public class Xml {
 		try {
 			
 			
-			String filePath = userDir+"\\testng1.xml";
+			String filePath = userDir+"\\testng.xml";
 			System.out.println("filePath: "+filePath);
 			
 			File file = new File(filePath);
